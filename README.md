@@ -1,2 +1,3 @@
-# PaperRepository
-All of my papers
+# Paper Repositor
+Files for the personal website.
+CV, resume, and research.
